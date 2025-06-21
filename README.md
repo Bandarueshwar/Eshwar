@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-🎓 I'm currently pursuing a B.S. in Computer Science at **Manav Rachna University** (2023–2027).  
+🎓 I'm currently pursuing a B.S. in Computer Science 3rd Year.  
 🚀 Passionate about **Web Development**, **Java Programming**, and exploring **Cloud Technologies**.  
 🔍 I enjoy building real-world applications and continuously learning new tools and technologies.
 
